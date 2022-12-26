@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm vaishali</h1>
 <h3 align="center">A passionate Devops | Frontent Devlopment | DSA | from India</h3>
-<img align="right" alt="img" width="400" src="https://i.pinimg.com/originals/b8/52/93/b852935a26257463d4d036b8d6f8e345.gif>"
+<img align="right" alt="img" width="400" src="https://i.pinimg.com/originals/b8/52/93/b852935a26257463d4d036b8d6f8e345.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishali86c&label=Profile%20views&color=0e75b6&style=flat" alt="vaishali86c" /> </p>
 
