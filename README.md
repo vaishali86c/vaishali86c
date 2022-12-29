@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vaishali</h1>
 <h3 align="center">DEVOPS || DEVLOPMENT || DSA </h3>
 <hr>
-<img align="right" alt="img" hight = "250" width="300" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
+<img align="right" alt="img"  width="400" src="https://gifimage.net/wp-content/uploads/2017/09/anime-computer-gif-6.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishali86c&label=Profile%20views&color=0e75b6&style=flat" alt="vaishali86c" /> </p>
 
 - 🌱 I’m currently learning **DSA and Frontend development**
