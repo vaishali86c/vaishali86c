@@ -1,3 +1,4 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Vaishali</h1>
 <h3 align="center">DEVOPS || DEVLOPMENT || DSA </h3>
 <img align="right" alt="img" width="400" src="https://i.pinimg.com/originals/b8/52/93/b852935a26257463d4d036b8d6f8e345.gif">
@@ -10,7 +11,7 @@
 
 - 📫 How to reach me **vaishali86c@gmail.com**
 
-- ⚡ Fun fact **I am emotional🥺🥺**
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
