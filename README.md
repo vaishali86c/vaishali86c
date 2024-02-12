@@ -1,4 +1,4 @@
-# 💫 About Me:    
+# 💫 About Me:         
 Hey, I am Vaishali 👋<br><br> 👩‍💻 Enthusiastic Web Developer & DevOps Explorer Passionate about mastering web development and  DevOps skills, I am dedicated to continuous learning and growth in the ever-evolving tech landscape.<br><br>
 
 ## 🌐 Socials:
