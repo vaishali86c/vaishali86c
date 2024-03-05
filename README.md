@@ -1,4 +1,4 @@
-# 💫 About Me:               
+# 💫 About Me:                
 Hey, I am Vaishali 👋<br><br> 👩‍💻 Enthusiastic Web Developer & DevOps Explorer Passionate about mastering web development and  DevOps skills, I am dedicated to continuous learning and growth in the ever-evolving tech landscape.<br><br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/vaishali-chavan-307041244) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@vaishali86c) [![hashnode](https://img.shields.io/badge/hashnode-blue.svg?logo=hashnode&logoColor=white)](https://hashnode.com/@Vaishali86c)
